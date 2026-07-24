@@ -15,7 +15,7 @@ export default defineConfig({
         theme_color: "#1976d2",
         background_color: "#ffffff",
         display: "standalone",
-        start_url: "/",
+        start_url: "/Maxiyatzy/",
         icons: [
           {
             src: "icon-192.png",
